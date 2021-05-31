@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Technical assessment for FullStack SWAPI app
+
+Deployed: https://projectswapi12.herokuapp.com/
+
+Otherwise download locally and run "npm start" in the project root folder.
+
 ## Available Scripts
 
 In the project directory, you can run:
