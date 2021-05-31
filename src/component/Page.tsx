@@ -25,7 +25,6 @@ query GetPage($input: Int) {
 `;
 
 function Page({state}:{state:any}) {
-    console.log(typeof state)
   const [name, setName] = useState<any | null>(null);
   const [page, setPage] = useState(state);
   const { loading, data, error } = useQuery(query, {
