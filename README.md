@@ -1,12 +1,12 @@
+# SWAPI App without backend.
+
+Duplicate to my previous SWAPI app with the backend stored on CodeSandbox for a lighter app.
+Deployed on heroku for viewing at: https://projectswapi12.herokuapp.com/  
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Technical assessment for FullStack SWAPI app
-
-Deployed: https://projectswapi12.herokuapp.com/
-
-Otherwise download locally and run "npm start" in the project root folder.
 
 ## Available Scripts
 
